@@ -22,7 +22,7 @@ In this section, we will generate an Atlassian API token that will authorize our
 
 1. In the **_Your new API token_** modal, click **_Copy_** and save the value for later.
 
-   ![](copy-api-token.png)
+   ![](https://github.com/ajayi-george/gcp-scc-finding-notification-jira-cloud/blob/main/create-new-api-token.png)
 
 ### Open a Terminal
 
