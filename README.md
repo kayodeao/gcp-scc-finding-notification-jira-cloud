@@ -1,0 +1,1 @@
+# gcp-scc-finding-notification-jira-cloud
