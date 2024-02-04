@@ -18,7 +18,7 @@ In this section, we will generate an Atlassian API token that will authorize our
 
 1. Click **_Create API token_**, then under **_Label_** type **_SCC Finding Notifier_**, then click **_Create_**.
 
-   ![](create-new-api-token.png)
+   ![](https://github.com/kayodeao/gcp-scc-finding-notification-jira-cloud/blob/main/create-new-api-token%20(2).png)
 
 1. In the **_Your new API token_** modal, click **_Copy_** and save the value for later.
 
