@@ -161,4 +161,4 @@ Jira deployments are highly configurable. The cloud function needs to know the t
 
 1. Refresh the Kanban board!
 
-   ![](new-jira-issues.png)
+   ![](https://github.com/kayodeao/gcp-scc-finding-notification-jira-cloud/blob/main/toggle-finding-inactive-active.png)
